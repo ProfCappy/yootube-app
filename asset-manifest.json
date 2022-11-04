@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yootube-app/static/css/main.7064deb2.css",
+    "main.js": "/yootube-app/static/js/main.4712dcdb.js",
+    "index.html": "/yootube-app/index.html",
+    "main.7064deb2.css.map": "/yootube-app/static/css/main.7064deb2.css.map",
+    "main.4712dcdb.js.map": "/yootube-app/static/js/main.4712dcdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.4712dcdb.js"
+  ]
+}
